@@ -1,0 +1,27 @@
+body {
+    margin-top:150px;
+}
+
+h1{
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    margin:15px;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 150px;
+}
